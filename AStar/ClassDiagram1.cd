@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AStar.AStarEngine">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Class Name="AStar.AStarEngine.NodeDescription&lt;TNode&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AStarEngine.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AStarEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AStar.IPathNode&lt;TSelf&gt;">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>IPathNode.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
